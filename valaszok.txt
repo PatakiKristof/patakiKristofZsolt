@@ -1,0 +1,1 @@
+4. Egyfajta központi raktár, ami tárol rendszerez és hozzáférést biztosít fájlokhoz.
